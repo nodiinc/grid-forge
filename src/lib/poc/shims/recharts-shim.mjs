@@ -1,0 +1,18 @@
+const rc = globalThis.__recharts || {};
+export default rc;
+export const LineChart = rc.LineChart;
+export const Line = rc.Line;
+export const AreaChart = rc.AreaChart;
+export const Area = rc.Area;
+export const BarChart = rc.BarChart;
+export const Bar = rc.Bar;
+export const XAxis = rc.XAxis;
+export const YAxis = rc.YAxis;
+export const CartesianGrid = rc.CartesianGrid;
+export const Tooltip = rc.Tooltip;
+export const Legend = rc.Legend;
+export const ResponsiveContainer = rc.ResponsiveContainer;
+export const PieChart = rc.PieChart;
+export const Pie = rc.Pie;
+export const Cell = rc.Cell;
+export const ReferenceLine = rc.ReferenceLine;
